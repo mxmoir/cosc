@@ -1,0 +1,10 @@
+line
+one
+is
+a
+short
+line
+as
+is
+this
+one
